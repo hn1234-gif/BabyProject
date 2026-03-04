@@ -39,3 +39,11 @@ If a country does not exist in the region dataset, the Region column will show N
 ## Conclusion
 
 This project demonstrates how datasets can be cleaned, organized, and merged using pandas while maintaining a clean project structure in GitHub.
+
+## Project Improvements (Toddler Project)
+
+During the Toddler stage of the project, I added a second dataset that contains region information for each country.
+
+I decided to keep this change because it makes the dataset more useful for analysis. By joining the region data with the chocolate sales data, it becomes easier to compare sales across different regions of the world.
+
+This improvement shows how combining datasets can add more context and create better insights from the data.
